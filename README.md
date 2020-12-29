@@ -1,2 +1,7 @@
 # Covid-19ChartProject
-This is a project that shows data of a local dataset (.csv file) in form of a chart, using Chart.js library. 
+Tracking deceased rate of Covid-19 in Brazil.
+
+Libraries, frameworks and APIs:
+- Node.js
+- Momentjs
+- API URL: https://apify.com/pocesar/covid-brazil
